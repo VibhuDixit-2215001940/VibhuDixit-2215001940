@@ -27,6 +27,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vibhudixit-2215001940&show_icons=true&locale=en&layout=compact" alt="vibhudixit-2215001940" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vibhudixit-2215001940&show_icons=true&locale=en" alt="vibhudixit-2215001940" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vibhudixit-2215001940&show_icons=true&count_private=true&locale=en" alt="vibhudixit-2215001940" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vibhudixit-2215001940&" alt="vibhudixit-2215001940" /></p>
+<p><img align="center" src="https://img.shields.io/github/commit-activity/m/vibhudixit-2215001940/Swipe2Clean_SIH?label=Commits" alt="Total Commits" /></p>
+
