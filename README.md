@@ -11,6 +11,11 @@
 - 💬 Ask me about **Django, MERN**
 
 - 📫 How to reach me **vibhudixit88@gmail.com**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VibhuDixit-2215001940&label=Profile%20views&color=0e75b6&style=flat" alt="VibhuDixit-2215001940" /> </p>
+<span align="left"><img src="https://img.shields.io/badge/Total%20Repos-60-8b00ff" alt="Total Repositories" /></span>
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
