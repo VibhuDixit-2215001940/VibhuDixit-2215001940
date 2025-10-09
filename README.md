@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on [Swipe2Clean](https://github.com/VibhuDixit-2215001940/Swipe2Clean_SIH)
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Endpoint Scanning**
 
-- 💬 Ask me about **Django, MERN**
+- 💬 Ask me about **Django, MERN, OSINT, OWASP, SQL Injection, XSS, PunyCode, VAPT, Endpoint Scanning**
 
 - 📫 How to reach me **vibhudixit88@gmail.com**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VibhuDixit-2215001940&label=Profile%20views&color=0e75b6&style=flat" alt="VibhuDixit-2215001940" /> </p>
-<span align="left"><img src="https://img.shields.io/badge/Total%20Repos-65-8b00ff" alt="Total Repositories" /></span>
+<span align="left"><img src="https://img.shields.io/badge/Total%20Repos-82-8b00ff" alt="Total Repositories" /></span>
 
 
   <span ><p><img align="center" src="https://img.shields.io/github/commit-activity/m/vibhudixit-2215001940/VIBHU_DIXIT_DSA-?label=Commits" alt="Total Commits" /></p></span>
