@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **vibhudixit88@gmail.com**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VibhuDixit-2215001940&label=Profile%20views&color=0e75b6&style=flat" alt="VibhuDixit-2215001940" /> </p>
-<span align="left"><img src="https://img.shields.io/badge/Total%20Repos-82-8b00ff" alt="Total Repositories" /></span>
+<span align="left"><img src="https://img.shields.io/badge/Total%20Repos-87-8b00ff" alt="Total Repositories" /></span>
 
 
   <span ><p><img align="center" src="https://img.shields.io/github/commit-activity/m/vibhudixit-2215001940/VIBHU_DIXIT_DSA-?label=Commits" alt="Total Commits" /></p></span>
